@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
 
-<h2 align="center">A passionate software developer 💻</h2>
+<h2 align="center">Solana Development Guru 💻</h2>
 
 ## About Me 🤵
 
@@ -54,9 +54,9 @@ Here are some of my notable projects:
 I love connecting with fellow developers and blockchain enthusiasts! Feel free to reach out to me through the following platforms:
 
 <!-- - [LinkedIn](your-linkedin-profile) -->
-- [Telegram](https://web.telegram.org/k/#@QualityAtTheFirst) `@QualityAtTheFirst`
-- [Discord](https://discord.gg/cCwDXfvS) `hereforyou319_88772`
 - [Email](mailto:smartfox319@gmail.com) `smartfox319@gmail.com`
+- Telegram username `@Smart_Sol_Guru`
+- Discord username `smart_sol_guru`
 
 ## Let's Collaborate! 🤝
 
