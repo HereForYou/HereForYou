@@ -43,11 +43,11 @@ Here are some of my notable projects:
   - Notify to the Telegram users using Telegram bot
   - Using Quicknode RPC provider and @solana/web3.js@1 package
   - Typescript
-- [Smart Copy Trading Bot](https://github.com/HereForYou/Smart-Copy-Trading-Bot): A bot designed to copy the trading of target wallet.
+<!-- - [Smart Copy Trading Bot](https://github.com/HereForYou/Smart-Copy-Trading-Bot): A bot designed to copy the trading of target wallet.
   - Monitoring wallet trading on Raydium and Jupiter dexes.
   - Notify the human-readable message on console
   - Using Quicknode RPC provider and @solana/web3.js@1 package
-  - Typescript
+  - Typescript -->
 
 ## Get in Touch 💬
 
