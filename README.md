@@ -54,7 +54,7 @@ Here are some of my notable projects:
 I love connecting with fellow developers and blockchain enthusiasts! Feel free to reach out to me through the following platforms:
 
 <!-- - [LinkedIn](your-linkedin-profile) -->
-- [Email](mailto:smartfox319@gmail.com) `smartfox319@gmail.com`
+- [Email](mailto:greenoak0418@gmail.com) `greenoak0418@gmail.com`
 - Telegram username `@Smart_Sol_Guru`
 - Discord username `smart_sol_guru`
 
@@ -68,7 +68,7 @@ Thank you for visiting my GitHub profile! 🚀
 
 <div align="center"> 
 <!--   <a href="mailto:pedro.sales.muniz@gmail.com"> -->
-  <a href="mailto:smartfox319@gmail.com">
+  <a href="mailto:greenoak0418@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
